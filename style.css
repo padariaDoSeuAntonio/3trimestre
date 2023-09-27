@@ -15,7 +15,11 @@ p{
     display: flex;
     margin-left: 200px;
 }
-.itemlita_cabecalho{
-    padding-left: 30px;
+
+.item_lista_cabecalho{
+    color: red;
     list-style: none;
-}
+    text-transform: uppercase;
+    font-size: 40px;
+    padding: 15px;
+  }
